@@ -1,4 +1,4 @@
-# Simple task list manager in CLI built with Node.js
+#Simple task list manager in CLI built with Node.js
 
 Run:
 ```
